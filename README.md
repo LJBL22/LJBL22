@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Node.js, Webpack, Sass**
 
-- 👨‍💻 All of my projects are available at [my github](https://github.com/LJBL22?tab=repositories)
+- 👩🏻‍💻 All of my projects are available at [my github](https://github.com/LJBL22?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@LJBL](https://medium.com/@LJBL)
 
