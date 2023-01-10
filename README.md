@@ -16,6 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [{ 技術筆記} Kevin Powell — Flexbox is more complicated than you thought](https://medium.com/@LJBL/notes-flex-item-fe441ffa9a?source=rss-df973506d981------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
