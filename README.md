@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: my avatar stands for "Little White" in animation “クレヨンしんちゃん”, I chose this to wish myself **maintain an open-minded heart on the road of coding. :^D**
 
-### Blog posts Highlight
+### Blog Posts Highlight
 <!-- BLOG-POST-LIST:START -->
 - [用 Sass 抽換變數 — Dark Theme by Sass &lpar;not CSS variable&rpar;](https://medium.com/@LJBL/%E7%94%A8-sass-%E6%8A%BD%E6%8F%9B%E8%AE%8A%E6%95%B8-dark-theme-by-sass-not-css-variable-5c62ddad8681?source=rss-df973506d981------2)
 - [{ 技術筆記} Kevin Powell — Flexbox is more complicated than you thought](https://medium.com/@LJBL/notes-flex-item-fe441ffa9a?source=rss-df973506d981------2)
