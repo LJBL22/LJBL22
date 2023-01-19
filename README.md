@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **ljbl2208@gmail.com**
 
-- ⚡ Fun fact: my avatar stands for "Little White" in animation “クレヨンしんちゃん”, I chose this to wish myself **maintain an open-minded heart on the road of coding. :^D**
+- ⚡ Fun fact 1: my avatar stands for "Little White" in animation “クレヨンしんちゃん”, I chose this to wish myself **maintain an open-minded heart on the road of coding. :^D**
+- ⚡ Fun fact 2: I have a **100% completion** record of **The Legend of Zelda** (Switch game) -- before that I seldom play/ into any video game!
 
 ### Blog Posts Highlight
 <!-- BLOG-POST-LIST:START -->
