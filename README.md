@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Taipei, Taiwan 🇹🇼</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljbl22&title=Repositories,Commits,Followers,Stars&theme=juicyfresh" alt="ljbl22" /></a> </p>
 
-- 🔭 I’m currently working on [frontend mentor](https://www.frontendmentor.io/) & [ALPHA Camp](https://tw.alphacamp.co/) web dev course with React.
+- 🔭 I’m currently working on [frontend mentor](https://www.frontendmentor.io/) & web dev courses with React.
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Node.js, Webpack, Sass**
 
