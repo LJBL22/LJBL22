@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [frontend mentor](https://www.frontendmentor.io/) & web dev courses with React.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Node.js, Webpack, Sass**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Styled-components, Node.js, Webpack, Sass**
 
 - 👩🏻‍💻 All of my projects are available at [my github](https://github.com/LJBL22?tab=repositories)
 
