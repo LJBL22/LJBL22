@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Taipei, Taiwan 🇹🇼</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljbl22&title=Repositories,Commits,Followers,Stars&theme=juicyfresh" alt="ljbl22" /></a> </p>
 
-- 🔭 I’m currently working on [frontend mentor](https://www.frontendmentor.io/) & web dev courses with React.
+- 🔭 I’m currently working on [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science), Leetcode, & [Modern React with Redux [2023 Update]](https://www.udemy.com/course/react-redux/).
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Styled-components, Node.js, Webpack, Sass**
+- 🔎 I'm interested in TypeScript & Tailwind CSS.
 
 - 👩🏻‍💻 All of my projects are available at [my github](https://github.com/LJBL22?tab=repositories)
 
