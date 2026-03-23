@@ -4,16 +4,17 @@
 
 - 🔎 I'm currently exploring **Claude Code** and AI-assisted development workflows.
 
-- 🔭 I've completed [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) from Havard Uni. and [Modern React with Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider, and I'm now expanding and refining my own project.
+- 🔭 I've completed [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) from Harvard University and [Modern React with Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider, and I'm now expanding and refining my own project.
 
-- 👩🏻‍💻 All of my projects are available at [my github](https://github.com/LJBL22?tab=repositories)
+- 👩🏻‍💻 You can find all of my projects on [GitHub](https://github.com/LJBL22?tab=repositories).
 
-- 📝 I regularly write articles on [https://medium.com/@LJBL](https://medium.com/@LJBL)
+- 📝 I regularly write on [Medium](https://medium.com/@LJBL).
 
-- 📫 How to reach me **ljbl2208@gmail.com**
+- 📫 Reach me at **ljbl2208@gmail.com**
 
-- ⚡ Fun fact 1: my avatar stands for "Little White" in animation “クレヨンしんちゃん”, I chose this to wish myself **maintain an open-minded heart on the road of coding. :^D**
-- ⚡ Fun fact 2: I have a **100% completion** record of **The Legend of Zelda** (Switch game) -- before that I seldom play/ into any video game!
+- ⚡ Fun fact: I use Frieren as my avatar because my coding journey still feels full of unknowns worth exploring. She reminds me to stay curious, patient, and open to the long road of learning and growth. :^D
+
+- ⚡ Another fun fact: I achieved **100% completion** in **The Legend of Zelda** on Switch — even though I was hardly into video games before that!
 
 ### Blog Posts Highlight
 <!-- BLOG-POST-LIST:START -->
