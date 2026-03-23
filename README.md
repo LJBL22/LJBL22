@@ -17,10 +17,11 @@
 
 ### Blog Posts Highlight
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode #231 Power of Two](https://medium.com/@LJBL/leetcode-231-power-of-two-b71faee03508?source=rss-df973506d981------2)
-- [[HTML 101] &lt;html&gt; &lt;body&gt; 之間？還有一個](https://medium.com/@LJBL/html-101-html-body-%E4%B9%8B%E9%96%93-%E9%82%84%E6%9C%89%E4%B8%80%E5%80%8B-3632288f860?source=rss-df973506d981------2)
-- [RIZE  pomodor — 時間管理好用工具推薦](https://medium.com/@LJBL/rize-pomodor-%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%96%A6-807ccfa7cf26?source=rss-df973506d981------2)
-- [用 Sass 抽換變數 — Dark Theme by Sass &lpar;not CSS variable&rpar;](https://medium.com/@LJBL/%E7%94%A8-sass-%E6%8A%BD%E6%8F%9B%E8%AE%8A%E6%95%B8-dark-theme-by-sass-not-css-variable-5c62ddad8681?source=rss-df973506d981------2)
+- [Claude in Actions Notes｜看懂 github workflows 的 claude.yml 檔案](https://medium.com/@LJBL/claude-in-actions-notes-%E7%9C%8B%E6%87%82-github-workflows-%E7%9A%84-claude-yml-%E6%AA%94%E6%A1%88-a625f6d58d5e?source=rss-df973506d981------2)
+- [[React.dev 筆記]：Reusing Logic with Custom Hooks](https://medium.com/@LJBL/react-dev-%E7%AD%86%E8%A8%98-reusing-logic-with-custom-hooks-57d372588e93?source=rss-df973506d981------2)
+- [Next.js &lt;Link&gt; vs useRouter 的使用時機 — router.push&lpar;&rpar;, router.replace&lpar;&rpar;, router.back&lpar;&rpar;](https://medium.com/@LJBL/next-js-link-vs-userouter-%E7%9A%84%E4%BD%BF%E7%94%A8%E6%99%82%E6%A9%9F-router-push-router-replace-router-back-c1c1291b7529?source=rss-df973506d981------2)
+- [React Functional Component LifeCycle flowchart 三大生命週期流程圖](https://medium.com/@LJBL/react-functional-component-lifecycle-flowchart-%E4%B8%89%E5%A4%A7%E7%94%9F%E5%91%BD%E9%80%B1%E6%9C%9F%E6%B5%81%E7%A8%8B%E5%9C%96-854b9bc95802?source=rss-df973506d981------2)
+- [So long](https://medium.com/@LJBL/so-long-a1c0515dabaf?source=rss-df973506d981------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
