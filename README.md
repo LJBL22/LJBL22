@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **ljbl2208@gmail.com**
 
-- ⚡ Fun fact: I use Frieren as my avatar because my coding journey still feels full of unknowns worth exploring. She reminds me to stay curious, patient, and open to the long road of learning and growth. :^D
+- ⚡ Fun fact: I use **Frieren** as my avatar because my coding journey still feels full of unknowns worth exploring. She reminds me to stay curious, patient, and open to the long road of learning and growth. :^D
 
 - ⚡ Another fun fact: I achieved **100% completion** in **The Legend of Zelda** on Switch — even though I was hardly into video games before that!
 
