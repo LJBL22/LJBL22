@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm LJBL <img src="https://komarev.com/ghpvc/?username=ljbl22&label=Profile%20views&color=0e75b6&style=flat" alt="ljbl22" /></h1> 
-<h3 align="center">A passionate frontend developer from Taipei, Taiwan 🇹🇼</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljbl22&title=Repositories,Commits,Followers,Stars&theme=juicyfresh" alt="ljbl22" /></a> </p>
+<h3 align="center">A passionate frontend developer with 2+ years of hands-on experience based in Taipei, Taiwan 🇹🇼</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=ljbl22&title=Repositories,Commits,Followers,Stars&theme=juicyfresh" alt="ljbl22" /></a> </p>
 
-- 🔭 I just finished [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) and [Modern React with Redux [2023 Update]](https://www.udemy.com/course/react-redux/), now I am working on my own project.
+- 🔎 I'm currently exploring **Claude Code** and AI-assisted development workflows.
 
-- 🔎 I'm interested in TypeScript & Tailwind CSS.
+- 🔭 I've completed [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) from Havard Uni. and [Modern React with Redux](https://www.udemy.com/course/react-redux/) by Stephen Grider, and I'm now expanding and refining my own project.
 
 - 👩🏻‍💻 All of my projects are available at [my github](https://github.com/LJBL22?tab=repositories)
 
@@ -25,41 +25,67 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" alt="tailwindcss" width="40" height="40"/>
-    
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+  </a>
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/reactquery?viewbox=auto&size=40" alt="TanStack Query" width="40" height="40" />
+  </a>
+  <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  </a>
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+  </a>
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="40" height="40" />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="40" /> </a> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  </a>
+</p>
+
+<h3 align="left">AI Tools:</h3>
+<p align="left">
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Claude-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  </a>
+  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  </a>
 </p>
 
 
 <p>
-  <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ljbl22&show_icons=true&locale=en&theme=dracula" alt="ljbl22" />
-  <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=ljbl22&theme=dracula" alt="ljbl22" />
-  <img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ljbl22&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ljbl22" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=ljbl22&show_icons=true&locale=en&theme=dracula" alt="ljbl22" />
+  <img height="140px" src="https://github-readme-streak-stats-eight.vercel.app/?user=ljbl22&theme=dracula" alt="ljbl22" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljbl22&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ljbl22" />
 </p>
